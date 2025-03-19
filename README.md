@@ -1,1 +1,1 @@
-# My_frist_repo
+# This is something about my Numerical Solution Class for Differential Equations
